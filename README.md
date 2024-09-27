@@ -22,7 +22,6 @@ This is a basic website design developed using HTML and CSS. The project include
 - HTML5
 - CSS3
 - Flexbox
-- Google Fonts (Optional, as per design needs)
 
 ## How to Run
 
